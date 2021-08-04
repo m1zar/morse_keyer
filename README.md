@@ -6,7 +6,7 @@ Can be easily modified to use any particular key or indeed the mouse clicks.
 
 Dependencies are:
 
-python 3.x 
+python 3.x & 
 pyautogui
 
 Pyautogui can be installed with 'pip install pyautogui' once python is installed.
